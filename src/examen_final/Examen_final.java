@@ -25,9 +25,8 @@ public class Examen_final {
             compra2=lectura.nextDouble();
             System.out.println("Ingresar número 3:");
             compra3=lectura.nextDouble();
-            System.out.println("RESULTADOS OBTENIDOS:");
+            System.out.println("RESULTADOS OBTENIDOS TOTALES:");
            // procesos de datos  
-           
            tc=compra1+compra2+compra3;
            promedio =tc/3;
            //salida de datos
