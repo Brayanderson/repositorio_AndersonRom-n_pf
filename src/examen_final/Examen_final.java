@@ -25,7 +25,7 @@ public class Examen_final {
             compra2=lectura.nextDouble();
             System.out.println("Ingresar número 3:");
             compra3=lectura.nextDouble();
-            System.out.println("RESULTADOS DE LA APLICACION:");
+            System.out.println("RESULTADOS OBTENIDOS:");
            // procesos de datos  
            
            tc=compra1+compra2+compra3;
